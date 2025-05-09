@@ -1,0 +1,14 @@
+# Bash Cleaner Script 
+
+This is a simple Bash script to clean up unnecessary files (like `.tmp`, `.log`, and `.bak`) from a specified directory. It supports a **dry run** mode to preview which files would be deleted.
+this cleaner is for educational purpose and for simple use also.
+## Features
+
+- Deletes files with `.tmp`, `.log`, and `.bak` extensions
+- Optional `--dry-run` mode to preview files before deletion
+- Simple and portable — works on any system with Bash
+
+## 🛠 Usage
+
+copy the bash file in the target file
+run the command ./cleaner.sh --dry-run
