@@ -8,7 +8,7 @@ this cleaner is for educational purpose and for simple use also.
 - Optional `--dry-run` mode to preview files before deletion
 - Simple and portable — works on any system with Bash
 
-## 🛠 Usage
+##  Usage
 
 copy the bash file in the target file
 run the command ./cleaner.sh --dry-run
